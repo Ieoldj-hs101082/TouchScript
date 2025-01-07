@@ -1,4 +1,3 @@
-![](https://raw.github.com/wiki/TouchScript/TouchScript/images/dvfu.jpg)
 
 ## TouchScript — multi-touch library for Unity
 
